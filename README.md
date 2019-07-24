@@ -1,7 +1,7 @@
 # AVR_Component_Tester
 DIY single sided PCB for AVR Component Tester (based on pdf file by Karl-Heinz Kübbeler)
 
-A very useful gadget whether you buy from many clones or built yourself. Here is my version:
+A very useful gadget whether you buy from many clones available or build it yourself. Here is my version:
 
 
 <img src="images/pcb.png">pcb</img>
